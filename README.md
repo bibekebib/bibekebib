@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**bibekebib/bibekebib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 - 🔭 I’m currently working on ... **NLP project**
 - 🌱 I’m currently learning ... *Data Sceince (NLP), Python Automation and Web-Scrapping *
 - 👯 I’m looking to collaborate on ... **Nothing For Now :( Still Thank you! **
@@ -23,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekebib&theme=merko)![Bibek Chalise Github Stats](https://github-readme-stats.vercel.app/api?username=bibekebib&hide=prs,issues,contribs?username=bibekebib&count_private=true?username=bibekebib&show_icons=true&theme=merko)
 
--->
+
