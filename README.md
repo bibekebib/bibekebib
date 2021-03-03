@@ -2,7 +2,7 @@
 
 
 ##Here are some ideas to get you started:
-- 🌱 I’m currently learning ... ###Data Sceince (NLP), Python Automation and Web-Scrapping 
+- 🌱 I’m currently learning ... ### Data Sceince (NLP), Python Automation and Web-Scrapping 
 - 👯 I’m looking to collaborate on ... **Nothing For Now :( Still Thank you! **
 - 🤔 I’m looking for help with ... **How to ..................... (Fill in the blanks)**
 - 💬 Ask me about ... Life.
