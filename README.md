@@ -1,14 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 
 ##Here are some ideas to get you started:
-- 🔭 I’m currently working on ... **NLP project**
-- 🌱 I’m currently learning ... *Data Sceince (NLP), Python Automation and Web-Scrapping *
+- 🌱 I’m currently learning ... ###Data Sceince (NLP), Python Automation and Web-Scrapping 
 - 👯 I’m looking to collaborate on ... **Nothing For Now :( Still Thank you! **
-- 🤔 I’m looking for help with ... *How to ..................... (Fill in the blanks*
+- 🤔 I’m looking for help with ... **How to ..................... (Fill in the blanks)**
 - 💬 Ask me about ... Life.
 - 📫 How to reach me: ... www.chalisebibek.com.np
-- 😄 Pronouns: ... He / Him / Mad man
+- 😄 Pronouns: ... He / Him / #Mad man
 - ⚡ Fun fact: ... I am  a boring person.
 - :)(; You didn't asked me what I love, My Crush and Blockchain.
 
