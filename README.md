@@ -10,6 +10,10 @@
 # :computer:  Bibek Chalise
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekebib" alt="bibekebib" /> </p>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibekebib&show_icons=true&locale=en&layout=compact" alt="Bibek Chalise" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekebib&show_icons=true&locale=en" alt="Bibek Chalise" /></p>
