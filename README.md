@@ -10,9 +10,10 @@
 # :computer:  Bibek Chalise
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekebib" alt="bibekebib" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibekebib&show_icons=true&locale=en&layout=compact" alt="Bibek Chalise" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekebib&show_icons=true&locale=en" alt="Bibek Chalise" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekebib&theme=merko)![Bibek Chalise Github Stats](https://github-readme-stats.vercel.app/api?username=bibekebib&hide=prs,issues,contribs?username=bibekebib&count_private=true?username=bibekebib&show_icons=true&theme=merko)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekebib&" alt="Bibek Chalise" /></p>
 
 
