@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🌱 I’m currently learning ...  Data Sceince (NLP), Python Automation and Web-Scrapping 
+- 🌱 I’m currently learning ...  Data Sceince (NLP | Computer Vision), Python Automation and Web-Scrapping 
 - 📫 How to reach me: ... www.chalisebibek.com.np
 - 😄 Pronouns: ... He / Him / **Mad man**
 - ⚡ Fun fact: ... I normally writes the poem of my heartbeat.
