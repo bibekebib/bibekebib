@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Chalise</h1>
-<h3 align="center">Computer Vision Enthusiast, Freelancer, Content Creator and Part time College lecturer.</h3>
+<h3 align="center">Co-Founder and Part time College lecturer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekebib&label=Profile%20views&color=0e75b6&style=flat" alt="bibekebib" /> </p>
 
