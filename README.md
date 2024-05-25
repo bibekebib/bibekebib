@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Chalise</h1>
-<h3 align="center">Co-Founder and Part time College lecturer.</h3>
+<h3 align="center">Co-Founder MarginTop Solutions Pvt Ltd and Part time College lecturer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekebib&label=Profile%20views&color=0e75b6&style=flat" alt="bibekebib" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_bbek" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_bbek?logo=twitter&style=for-the-badge" alt="i_am_bbek" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision Projects.**
+- 🔭 I’m currently working on **React and React Native** **Computer Vision Projects.**
 
 - 🌱 I’m currently learning **Transformers, Computer Vision, Diffusion and Human Interaction.**
 
